@@ -1,0 +1,12 @@
+.linkItems {
+    color: "white";
+    text-decoration: "none";
+    font-weight: 500;
+    text-transform: "uppercase";
+    padding: 2.5px;
+  }
+  .linkItems:hover {
+    color: "#004499";
+    background: "lightblue";
+  }
+  
